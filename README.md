@@ -7,11 +7,10 @@ This project evaluates the efficacy of classical statistical methods against dat
 * **`data/`**
   * `VMD_Data.csv`: The 31-row experimental dataset generated via Central Composite Design.
 * **`models/`**
-  * *(Contains serialized .pkl models, if applicable)*
-* `VMD_RSM.ipynb`: Jupyter notebook detailing the Ordinary Least Squares (OLS) regression for the quadratic RSM model.
-* `VMD_MLP.py`: Python script to train and evaluate the Neural Network model.
-* `VMD_RF.py`: Python script to train and evaluate the Random Forest model.
-* `VMD_SVR.py`: Python script to train and evaluate the Support Vector Regressor.
+  * `VMD_RSM.ipynb`: Jupyter notebook detailing the Ordinary Least Squares (OLS) regression for the quadratic RSM model.
+  * `VMD_MLP.py`: Python script to train and evaluate the Neural Network model.
+  * `VMD_RF.py`: Python script to train and evaluate the Random Forest model.
+  * `VMD_SVR.py`: Python script to train and evaluate the Support Vector Regressor.
 * `README.md`
 
 ### Prerequisites and Dependencies
